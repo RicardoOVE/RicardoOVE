@@ -6,7 +6,10 @@ Bilingual (🇺🇸 & 🇪🇸) with experience in programming languages such as
 Passionate about technology, computer assembly, programming, arduinos - raspberry Pi and videogames.
 
 ## Skills and Experience:
-Python / Flask / JS / MERN / HTML / CSS
+ * 🐍 Python
+ * ⚗️ Flask
+ * 🖥️ MERN
+ * 🖱️ JS / HTML / CSS
 
 - 🌱 I’m currently learning about Backend Development 
 
