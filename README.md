@@ -16,5 +16,7 @@ Passionate about technology, computer assembly, programming, arduinos - raspberr
 <a href="https://www.youtube.com/c/mrricortoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrricortoz" height="30" width="40" /></a>
 </p>
 
+https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611ff2e4693bb9c5b83673338eb1d9672eb0d31f8c5&rid=giphy.gif&ct=g
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOVE)](https://github.com/anuraghazra/github-readme-stats)
 
