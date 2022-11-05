@@ -10,8 +10,13 @@ Passionate about technology, computer assembly, programming, arduinos - raspberr
 ## Languages and tools:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RicardoOVE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ricardo-ortiz-v/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19656186/sirrick)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/MrRicortoz)  
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ricardo-ortiz-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-ortiz-v/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19656186/sirrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19656186/sirrick" height="30" width="40" /></a>
+<a href="https://kaggle.com/rickortizii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rickortizii" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mrricortoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrricortoz" height="30" width="40" /></a>
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOVE)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
