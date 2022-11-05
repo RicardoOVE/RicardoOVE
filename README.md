@@ -15,6 +15,7 @@ Passionate about technology, computer assembly, programming, arduinos - raspberr
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RicardoOVE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ricardo-ortiz-v/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19656186/sirrick)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/MrRicortoz)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOVE)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RicardoOVE/RicardoOVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
