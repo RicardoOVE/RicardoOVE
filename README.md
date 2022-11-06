@@ -20,7 +20,7 @@ Passionate about technology, computer assembly, programming, **arduinos** - rasp
 <a href="https://www.youtube.com/c/mrricortoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrricortoz" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOVE&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOVE&layout=compact&langs_count=5&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoOVE&theme=ayu-mirage&show_icons=true)
 
