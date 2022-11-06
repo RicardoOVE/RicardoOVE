@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there 👋, my name is Ricardo </h1>
 <h3 align="center"> A Full Stack Developer & Chemical Engineer from Colombia! </h3>
-![A Full Stack Developer & Chemical Engineer from Colombia!](https://media-exp1.licdn.com/dms/image/C5616AQFERaxyn7uMEg/profile-displaybackgroundimage-shrink_350_1400/0/1624571383784?e=1672876800&v=beta&t=dIksQi4m8VL_T8Qiiay1UMt97IvWSRsz7jofRMN6DaI)
 
 Bilingual (🇺🇸 & 🇪🇸) with experience in programming languages such as Python using Flask, MySQL, Pandas, SciPy and Numpy, JavaScript using MERN, notions of Data Science using Python and Matlab and knowledge of Git/GitHub, Postman, pgAdmin, etc.  I have more than a year of experience in data analysis and generation of knowledge in the laboratory, industrial plant and simulations (Aspen - Python). 
 Passionate about technology, computer assembly, programming, arduinos - raspberry Pi and videogames.
