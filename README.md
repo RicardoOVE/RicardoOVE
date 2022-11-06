@@ -9,7 +9,7 @@ Passionate about technology, computer assembly, programming, **arduinos** - rasp
 
 ![Profile views](https://gpvc.arturio.dev/RicardoOVE)  
 
-<img align="right" alt="codingdoggo" width="300" src="[https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611ff2e4693bb9c5b83673338eb1d9672eb0d31f8c5&rid=giphy.gif&ct=g](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)">
+<img align="right" alt="GitHubGif" width="500" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 <h3 align="left">Connect with me:</h3>
 
